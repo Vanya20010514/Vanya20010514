@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Vanya20010514 전북대 
+# 👋 Hello! I'm Vanya20010514 전북대
 
 
 🎯 Passionate about crafting efficient code, solving algorithmic problems, and building intelligent systems.
