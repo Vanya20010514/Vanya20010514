@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello! I'm Vanya20010514
 
-<!--
-**Vanya20010514/Vanya20010514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 Passionate about crafting efficient code, solving algorithmic problems, and building intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Researcher & Developer based in Korea
+- 🚀 Interested in AI, Competitive Programming, and System Architecture
+- 🔬 Focused on high-performance code and security-conscious design
+
+---
+
+## 📌 Skills
+- **Languages**: C, C++, Python, SQL, JavaScript
+- **Frameworks**: Django, PyQt, Flask, CustomTkinter
+- **Tools**: Git, Docker, VS Code, Jupyter
+- **AI/ML**: PyTorch, scikit-learn, TensorFlow
+- **Etc**: Web scraping, Automation, Algorithm optimization
+
+---
+
+## 🏆 Highlights
+- 🏅 Participated in multiple AI/Data Science competitions (Dacon 등)
+- 📊 Built a local leaderboard GUI using Python + CTk + PyQt
+- 🌐 Crawled and analyzed large-scale datasets (e.g., BOJ 문제 전체)
+- 🔍 Reverse-engineered structures and experimented with model fine-tuning (LLaMA2)
+
+---
+
+> 💬 "Code with obsession, debug with precision."  
